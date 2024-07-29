@@ -1,7 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
-  background-color: #f4f4fd;
+  background-color: #fff;
 }
 ul,
 ol {
@@ -16,9 +16,15 @@ a {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
+  text-transform: uppercase;
   color: #4d5ae5;
 }
 .header-logo .logo-part {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
   color: #2e2f42;
 }
 .nav-link {
@@ -69,6 +75,16 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
+}
+.text-section {
+  background-color: #f4f4fd;
+}
+.features {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .name-item {
   font-weight: 500;
@@ -137,6 +153,7 @@ a {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
+  text-transform: uppercase;
   color: #4d5ae5;
 }
 .footer-logo .logo-part {
