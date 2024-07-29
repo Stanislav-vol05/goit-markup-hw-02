@@ -73,6 +73,7 @@ a {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
   text-transform: capitalize;
   color: #fff;
 }
@@ -100,6 +101,9 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.team-section {
+  background-color: #f4f4fd;
+}
 .team-title {
   font-weight: 700;
   font-size: 36px;
@@ -107,7 +111,6 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  background-color: #f4f4fd;
 }
 .name {
   font-weight: 500;
