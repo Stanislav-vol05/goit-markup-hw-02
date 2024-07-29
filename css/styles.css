@@ -16,7 +16,6 @@ a {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  text-transform: capitalize;
   color: #4d5ae5;
 }
 .header-logo .logo-part {
@@ -138,7 +137,6 @@ a {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  text-transform: capitalize;
   color: #4d5ae5;
 }
 .footer-logo .logo-part {
