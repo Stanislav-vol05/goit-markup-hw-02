@@ -1,7 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
-  background-color: #fff;
+  background-color: #f4f4fd;
 }
 ul,
 ol {
@@ -16,7 +16,7 @@ a {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
+  text-transform: capitalize;
   color: #4d5ae5;
 }
 .header-logo .logo-part {
@@ -138,7 +138,7 @@ a {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
+  text-transform: capitalize;
   color: #4d5ae5;
 }
 .footer-logo .logo-part {
