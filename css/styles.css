@@ -27,6 +27,9 @@ a {
   text-transform: uppercase;
   color: #2e2f42;
 }
+.nav-item {
+  background-color: #fff;
+}
 .nav-link {
   font-weight: 500;
   font-size: 16px;
@@ -40,6 +43,9 @@ a {
 }
 .contacts {
   font-style: normal;
+}
+.contacts-item {
+  background-color: #fff;
 }
 .contacts-link {
   font-weight: 400;
@@ -87,6 +93,9 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+.list-item {
+  background-color: #fff;
+}
 .name-item {
   font-weight: 500;
   font-size: 20px;
@@ -113,6 +122,9 @@ a {
   text-transform: capitalize;
   color: #2e2f42;
 }
+.list-element {
+  background-color: #fff;
+}
 .name {
   font-weight: 500;
   font-size: 20px;
@@ -127,6 +139,9 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.portfolio-element {
+  background-color: #fff;
+}
 .title-portfolio {
   font-weight: 700;
   font-size: 36px;
@@ -135,7 +150,7 @@ a {
   text-align: center;
   color: #2e2f42;
 }
-.portfolio-title {
+.portfolio-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
